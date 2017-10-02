@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Using event listeners, implement the Konami Code on a page",
   "engines": {
-    "node": "6.x",
-    "npm": "3.x"
+    "node": ">6.x",
+    "npm": ">3.x"
   },
   "main": "index.js",
   "scripts": {
@@ -14,11 +14,7 @@
     "type": "git",
     "url": "git+ssh://git@github.com/learn-co-curriculum/konami-code-lab.git"
   },
-  "keywords": [
-    "javascript",
-    "flatiron",
-    "learn"
-  ],
+  "keywords": ["javascript", "flatiron", "learn"],
   "author": "pletcher",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
